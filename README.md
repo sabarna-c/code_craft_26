@@ -1,2 +1,1 @@
-# code_craft_26
-code_craft_26
+The Emergency Rescue Priority System is a C-based application that manages rescue requests, prioritizes emergencies, assigns rescue teams, updates request statuses, and generates emergency summaries to ensure critical cases receive immediate attention.
